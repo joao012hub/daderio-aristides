@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <pattern id="g" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0v48" fill="none" stroke="rgba(255,255,255,.08)"/></pattern>
+  </defs>
+  <rect width="1200" height="900" fill="#0f2a4a"/>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <path d="M40 80V40h40M1120 40h40v40M1160 820v40h-40M80 860H40v-40" fill="none" stroke="#c9a227" stroke-width="3"/>
+  <path d="M420 560 L 600 380 L 780 560 M470 560 V 700 H 730 V 560" fill="none" stroke="#c9a227" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M560 700 V 620 H 640 V 700" fill="none" stroke="#b8342f" stroke-width="4"/>
+  <text x="600" y="790" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="20" letter-spacing="6" fill="rgba(255,255,255,.55)">FOTO DA OBRA · PLACEHOLDER</text>
+</svg>
